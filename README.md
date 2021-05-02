@@ -7,6 +7,4 @@ GUI under console
 
 See Demo 
 
-
-
 ![Alt Text](https://github.com/ss53213/travel-/blob/main/demo.webp)
